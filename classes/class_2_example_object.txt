@@ -1,0 +1,13 @@
+Object: Pan Pizza
+
+Attributes:
+current_price: 9.99
+toppings: ["Sausage", "Onion"]
+well_done: false
+slices: 6
+
+Methods:
+increase_price: 9.99 + 1 = 10.99
+add_pepperoni: toppings = ["Sausage", "Onion", "Pepperoni"]
+cook_longer: well_done = true
+eat_slice: slices = 5
