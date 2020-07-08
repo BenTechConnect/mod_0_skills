@@ -1,0 +1,13 @@
+Object: iPhone
+
+Attributes:
+screen_size: 6.4
+power_level: 100
+contacts: ["Ben", "Alexa", "David", "Margo"]
+power_status: true
+
+Methods:
+charge_phone: 100 + 0 = 100
+add_contact: contacts = ["Ben", "Alexa", "David", "Margo", "Alice"]
+turn_off: power_status = false
+remove_contact: contacts = ["Ben", "Alexa", "David", "Margo"]
