@@ -1,0 +1,13 @@
+Class: Phone
+
+Attributes:
+screen_size (float)
+power_level (integer)
+contacts (array)
+power_status (boolean)
+
+Methods:
+charge_phone (modifies power_level attribute)
+add_contact (modifies contacts attribute)
+turn_off (modifies power_status attribute)
+remove_contact (modifies contacts attribute)
