@@ -1,0 +1,13 @@
+Class: Pizza
+
+Attributes:
+current_price (float)
+toppings (array)
+well_done (boolean)
+slices (integer)
+
+Methods:
+increase_price (modifies current_price attribute)
+add_pepperoni (modifies toppings attribute)
+cook_less (modifies well_done attribute)
+eat_slice (modifies slices attribute)
