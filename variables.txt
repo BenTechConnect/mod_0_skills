@@ -1,0 +1,9 @@
+var food = "my favorite";
+var isDelicious = true;
+food = "everyone loves it";
+var num2 = 2;
+var num7 = 7;
+var quotient = 3.5;
+var songs = ["Freebird", "Love Me", "Gone"];
+songs.shift();
+var n = food.length;
